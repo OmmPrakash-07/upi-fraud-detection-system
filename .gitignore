@@ -9,3 +9,10 @@ dist/
 *.joblib
 .ipynb_checkpoints/
 .vscode/
+# Dataset files
+*.csv
+*.csv.gz
+*.gz
+
+# Processed datasets
+ml/dataset/processed/
